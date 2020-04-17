@@ -1,0 +1,80 @@
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\WpfApplication.exe.config
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication.exe
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication.pdb
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\data\bw.txt
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\data\hcdata.xml
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\Images\17.jpg
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\data\cwdata.xml
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\Images\16.jpg
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\Images\turnip.png
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\WpfApplication.exe
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\WpfApplication.pdb
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\hcchaxun.baml
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\cwchaxun.baml
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\App.baml
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\hcchaxun.g.cs
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\MainWindow.g.cs
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\cwchaxun.g.cs
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\App.g.cs
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication_Content.g.cs
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\MainWindow.baml
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication.g.resources
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication1.Form1.resources
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\王雷\Documents\Visual Studio 2015\Projects\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\数据报文解析V1.0.csproj.GenerateResource.Cache
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\WpfApplication.exe.config
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication.exe
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication.pdb
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\data\bw.txt
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\data\hcdata.xml
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\Images\17.jpg
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\data\cwdata.xml
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\Images\16.jpg
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\Images\turnip.png
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\WpfApplication.exe
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\WpfApplication.pdb
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\hcchaxun.baml
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\cwchaxun.baml
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\App.baml
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\hcchaxun.g.cs
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\MainWindow.g.cs
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\cwchaxun.g.cs
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\App.g.cs
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication_Content.g.cs
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\MainWindow.baml
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication.g.resources
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication1.Form1.resources
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\数据报文解析V1.0.csproj.GenerateResource.Cache
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\WpfApplication.exe.config
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication.exe
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication.pdb
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\hcchaxun.baml
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\cwchaxun.baml
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\App.baml
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\hcchaxun.g.cs
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\MainWindow.g.cs
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\cwchaxun.g.cs
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\App.g.cs
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication_Content.g.cs
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\data\bw.txt
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\data\hcdata.xml
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\Images\17.jpg
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\data\cwdata.xml
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\Images\16.jpg
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\Images\turnip.png
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\WpfApplication.exe
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\bin\x64\Debug\WpfApplication.pdb
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\MainWindow.baml
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication.g.resources
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication1.Form1.resources
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\数据报文解析V1.0.csproj.GenerateResource.Cache
+C:\Users\王雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\数据报文解析V1.0.csprojResolveAssemblyReference.cache
+C:\Users\雷\Desktop\国网协议数据接收软件（带UDP接收）\WpfApplication1\obj\x64\Debug\数据报文解析V1.0.csprojResolveAssemblyReference.cache

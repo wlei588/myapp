@@ -1,0 +1,874 @@
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\bin\Release\Data\InfoPage.html
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\bin\Release\Data\timetable1.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\bin\Release\Data\timetable2.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\bin\Release\Data\说明.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\bin\Release\Data\hcdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\bin\Release\Data\cwdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\bin\Release\WpfApplication.exe.config
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\bin\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\bin\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\App.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\data_view.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\help.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\Window2.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\App.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\camera_co.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\data_view.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\Dictionary1.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\help.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\MainWindow.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\pictrue.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\picture_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\setinfo.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\tongxun_sz.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\tuxiang_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\TX_select.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\Window2.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\Window_ID.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.GenerateResource.Cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\TxSpTest.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\Power_m.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.05.12hjl_OK(new)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csprojResolveAssemblyReference.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\bin\Release\Data\InfoPage.html
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\bin\Release\Data\timetable1.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\bin\Release\Data\timetable2.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\bin\Release\Data\说明.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\bin\Release\Data\hcdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\bin\Release\Data\cwdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\bin\Release\WpfApplication.exe.config
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\bin\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\bin\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\App.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\data_view.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\help.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\Window2.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\App.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\camera_co.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\data_view.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\Dictionary1.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\help.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\MainWindow.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\pictrue.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\picture_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\Power_m.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\setinfo.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\tongxun_sz.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\tuxiang_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\TxSpTest.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\TX_select.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\Window2.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\Window_ID.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.GenerateResource.Cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.07.26hjl_OK(new)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csprojResolveAssemblyReference.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\bin\Release\Data\InfoPage.html
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\bin\Release\Data\timetable1.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\bin\Release\Data\timetable2.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\bin\Release\Data\说明.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\bin\Release\Data\hcdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\bin\Release\Data\cwdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\bin\Release\WpfApplication.exe.config
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\bin\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\bin\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\App.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\data_view.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\help.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\Window2.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\App.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\camera_co.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\data_view.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\Dictionary1.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\help.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\MainWindow.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\pictrue.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\picture_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\Power_m.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\setinfo.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\tongxun_sz.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\tuxiang_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\TxSpTest.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\TX_select.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\Window2.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\Window_ID.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.GenerateResource.Cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(new)\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\App.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\data_view.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\help.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window2.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\App.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\bin\Release\Data\InfoPage.html
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\bin\Release\Data\timetable1.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\bin\Release\Data\timetable2.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\bin\Release\Data\说明.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\bin\Release\Data\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\bin\Release\Data\hcdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\bin\Release\Data\cwdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\bin\Release\WpfApplication.exe.config
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\bin\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\bin\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\bin\Release\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\camera_co.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\data_view.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Dictionary1.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\help.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\MainWindow.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\pictrue.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\picture_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Power_m.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\setinfo.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tongxun_sz.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tuxiang_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TxSpTest.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TX_select.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window2.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window_ID.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.GenerateResource.Cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.07hjl_OK(with_http)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csprojResolveAssemblyReference.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csprojResolveAssemblyReference.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\App.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\baseinfo_set_check.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\data_view.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\help.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\up_program.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window2.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\App.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.13hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\bin\Release\Data\InfoPage.html
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\bin\Release\Data\timetable1.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\bin\Release\Data\timetable2.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\bin\Release\Data\说明.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\bin\Release\Data\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\bin\Release\Data\hcdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\bin\Release\Data\cwdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\bin\Release\WpfApplication.exe.config
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\bin\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\bin\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\bin\Release\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\App.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\baseinfo_set_check.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\data_view.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\help.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\up_program.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window2.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\App.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\baseinfo_set_check.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\camera_co.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\data_view.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Dictionary1.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\help.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\MainWindow.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\pictrue.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\picture_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Power_m.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\setinfo.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tongxun_sz.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tuxiang_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TxSpTest.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TX_select.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\up_program.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window2.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window_ID.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.GenerateResource.Cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.16hjl_OK(with_http)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csprojResolveAssemblyReference.cache
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\bin\Release\Data\InfoPage.html
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\bin\Release\Data\timetable1.txt
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\bin\Release\Data\timetable2.txt
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\bin\Release\Data\说明.txt
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\bin\Release\Data\Newtonsoft.Json.dll
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\bin\Release\Data\hcdata.xml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\bin\Release\Data\cwdata.xml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\bin\Release\WpfApplication.exe.config
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\bin\Release\WpfApplication.exe
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\bin\Release\WpfApplication.pdb
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\bin\Release\Newtonsoft.Json.dll
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csprojResolveAssemblyReference.cache
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\App.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\baseinfo_set_check.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\data_view.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\help.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\up_program.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window2.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\baseinfo_set_check.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\camera_co.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\data_view.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Dictionary1.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\help.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\pictrue.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\picture_set.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Power_m.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\setinfo.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tongxun_sz.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tuxiang_set.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TxSpTest.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TX_select.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\up_program.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window2.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window_ID.baml
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.GenerateResource.Cache
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.CoreCompileInputs.cache
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+C:\Users\王雷\Desktop\新建文件夹 (2)\国网数据接收软件_图像2018.08.25hjl_OK(with_http)\WpfApplication1\bin\Release\config_base.json
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\bin\Release\Data\InfoPage.html
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\bin\Release\Data\timetable1.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\bin\Release\Data\timetable2.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\bin\Release\Data\说明.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\bin\Release\Data\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\bin\Release\Data\hcdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\bin\Release\config_base.json
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\bin\Release\Data\cwdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\bin\Release\WpfApplication.exe.config
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\bin\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\bin\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\bin\Release\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\App.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\baseinfo_set_check.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\data_view.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\help.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\up_program.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window2.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\App.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\baseinfo_set_check.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\camera_co.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\data_view.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Dictionary1.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\help.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\MainWindow.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\pictrue.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\picture_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Power_m.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\setinfo.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tongxun_sz.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\tuxiang_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TxSpTest.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\TX_select.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\up_program.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window2.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\Window_ID.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.GenerateResource.Cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http)\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\App.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\baseinfo_set_check.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\data_view.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\help.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\up_program.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window2.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\App.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\InfoPage.html
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\timetable1.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\timetable2.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\说明.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\hcdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\bin\Release\config_base.json
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\cwdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.exe.config
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\baseinfo_set_check.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\camera_co.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\data_view.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Dictionary1.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\help.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\MainWindow.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\pictrue.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\picture_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Power_m.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\setinfo.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tongxun_sz.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tuxiang_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TxSpTest.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TX_select.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\up_program.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window2.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window_ID.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.GenerateResource.Cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.08.26hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csprojResolveAssemblyReference.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\InfoPage.html
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\timetable1.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\timetable2.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\说明.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\hcdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\config_base.json
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\cwdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.exe.config
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csprojResolveAssemblyReference.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\App.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\baseinfo_set_check.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\data_view.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\help.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\up_program.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window2.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\App.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\baseinfo_set_check.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\camera_co.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\data_view.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Dictionary1.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\help.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\MainWindow.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\pictrue.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\picture_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Power_m.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\setinfo.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tongxun_sz.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tuxiang_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TxSpTest.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TX_select.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\up_program.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window2.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window_ID.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.GenerateResource.Cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\InfoPage.html
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\timetable1.txt
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\timetable2.txt
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\说明.txt
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\Newtonsoft.Json.dll
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\hcdata.xml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\config_base.json
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\cwdata.xml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.exe.config
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.exe
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.pdb
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Newtonsoft.Json.dll
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csprojResolveAssemblyReference.cache
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\App.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\baseinfo_set_check.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\data_view.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\help.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\up_program.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window2.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\baseinfo_set_check.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\camera_co.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\data_view.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Dictionary1.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\help.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\pictrue.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\picture_set.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Power_m.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\setinfo.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tongxun_sz.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tuxiang_set.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TxSpTest.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TX_select.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\up_program.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window2.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window_ID.baml
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.GenerateResource.Cache
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.CoreCompileInputs.cache
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+C:\Users\王雷\Desktop\新建文件夹 (4)\国网数据接收软件_图像2018.09.07hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\InfoPage.html
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\timetable1.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\timetable2.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\说明.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\hcdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\bin\Release\config_base.json
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\cwdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.exe.config
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\App.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\baseinfo_set_check.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\data_view.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\help.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\up_program.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window2.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\App.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\baseinfo_set_check.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\camera_co.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\data_view.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Dictionary1.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\help.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\MainWindow.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\pictrue.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\picture_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Power_m.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\setinfo.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tongxun_sz.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tuxiang_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TxSpTest.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TX_select.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\up_program.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window2.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window_ID.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.GenerateResource.Cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csprojResolveAssemblyReference.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\InfoPage.html
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\timetable1.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\timetable2.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\说明.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\hcdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\config_base.json
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\cwdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.exe.config
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\App.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\baseinfo_set_check.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\data_view.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\help.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\up_program.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window2.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\App.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\baseinfo_set_check.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\camera_co.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\data_view.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Dictionary1.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\help.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\MainWindow.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\pictrue.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\picture_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Power_m.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\setinfo.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tongxun_sz.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tuxiang_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TxSpTest.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TX_select.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\up_program.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window2.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window_ID.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.GenerateResource.Cache
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2018.09.09_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\App.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\baseinfo_set_check.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\data_view.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\help.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\timetable_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\up_program.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window2.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\App.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\InfoPage.html
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\timetable1.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\timetable2.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\说明.txt
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\hcdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\config_base.json
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\cwdata.xml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.exe.config
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.exe
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.pdb
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Newtonsoft.Json.dll
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\baseinfo_set_check.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\camera_co.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\data_view.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Dictionary1.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\help.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\MainWindow.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\pictrue.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\picture_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Power_m.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\setinfo.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\timetable_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tongxun_sz.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tuxiang_set.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TxSpTest.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TX_select.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\up_program.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window2.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window_ID.baml
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.GenerateResource.Cache
+E:\hjllxb\hjl\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csprojResolveAssemblyReference.cache
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\InfoPage.html
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\timetable1.txt
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\timetable2.txt
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\说明.txt
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\Newtonsoft.Json.dll
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\hcdata.xml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\config_base.json
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Data\cwdata.xml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.exe.config
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.exe
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\WpfApplication.pdb
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\bin\Release\Newtonsoft.Json.dll
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csprojAssemblyReference.cache
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\hcchaxun.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\cwchaxun.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\App.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\baseinfo_set_check.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\camera_co.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\data_view.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\hcchaxun.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\help.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\cwchaxun.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\pictrue.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\picture_set.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Power_m.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\setinfo.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\timetable_set.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tongxun_sz.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tuxiang_set.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TxSpTest.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TX_select.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\up_program.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window2.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window_ID.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\App.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.lref
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\baseinfo_set_check.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\camera_co.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\data_view.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Dictionary1.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\help.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\MainWindow.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\pictrue.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\picture_set.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Power_m.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\setinfo.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\timetable_set.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tongxun_sz.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\tuxiang_set.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TxSpTest.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\TX_select.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\up_program.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window2.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\Window_ID.baml
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.GenerateResource.cache
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\数据报文解析V1.0.csproj.CopyComplete
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.exe
+D:\myapp\国网数据接收软件_图像2020.01.02_hjl_OK(with_http_fu)\WpfApplication1\obj\x86\Release\WpfApplication.pdb

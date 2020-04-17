@@ -1,0 +1,534 @@
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.exe.config
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.application
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.exe
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.pdb
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window1.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\App.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window1.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\test.csproj.GenerateResource.Cache
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.application
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window2.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window2.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window3.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window3.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.exe.config
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.application
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.exe
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.pdb
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window1.baml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window2.baml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window3.baml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\App.baml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window1.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window2.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window3.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.application
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\data\mx.xslt
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\data\mx.xml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\data\mx.xslt
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\data\mx.xml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\data\单精度浮点数转换.exe
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\Population.xml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\mx.xslt
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\mx.xml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.exe.config
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.application
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.exe
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.pdb
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\SilverFlow.Controls.dll
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window1.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window2.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window3.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window4.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\App.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window1.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window2.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window3.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window4.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\test.csproj.GenerateResource.Cache
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.application
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\单精度浮点数转换.exe
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.exe.config
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\单精度浮点数转换.exe
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\Population.xml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\mx.xslt
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\mx.xml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.application
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.exe
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.pdb
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window1.baml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window2.baml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window3.baml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window4.baml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\App.baml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window1.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window2.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window3.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window4.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.application
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\XmlNotepadcn.exe
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.exe.config
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\XmlNotepadcn.exe
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\mx.xslt
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\mx.xml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.application
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.exe
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.pdb
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window1.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window2.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window3.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window4.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\App.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window1.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window2.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window3.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window4.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\test.csproj.GenerateResource.Cache
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.application
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\Population.xml
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.exe.config
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\MainWindow.baml
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window1.baml
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window3.baml
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window4.baml
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\App.baml
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window1.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window3.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window4.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\App.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\XmlNotepadcn.exe
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\Population.xml
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\mx.xslt
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\data\mx.xml
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.application
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.exe
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\WpfApplication.pdb
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window2.baml
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\Window2.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\obj\x86\Release\WpfApplication.application
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\Images\turnip.png
+F:\M3-电源狗测试程序（带协议）2014.08.22\M3-电源狗测试程序（带协议）2014.08.17\WPF\WpfApplication1\bin\Release\Images\15.ico
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\WpfApplication.exe.config
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\data\XmlNotepadcn.exe
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\data\Population.xml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\data\mx.xslt
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\Images\15.ico
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\Images\turnip.png
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\data\mx.xml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\WpfApplication.application
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\WpfApplication.exe
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\WpfApplication.pdb
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\SilverFlow.Controls.dll
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\test.csprojResolveAssemblyReference.cache
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window1.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window2.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window3.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window4.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\App.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window1.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window2.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window3.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window4.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\test.csproj.GenerateResource.Cache
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication.application
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\WpfApplication.exe.config
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\data\XmlNotepadcn.exe
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\data\Population.xml
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\data\mx.xslt
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\Images\15.ico
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\Images\turnip.png
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\data\mx.xml
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\WpfApplication.application
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\WpfApplication.exe
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\bin\Release\WpfApplication.pdb
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\MainWindow.baml
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window1.baml
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window2.baml
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window3.baml
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window4.baml
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\App.baml
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window1.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window2.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window3.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Window4.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\App.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\WpfApplication.application
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\AppSet.baml
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\AppSet.g.cs
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Page1.baml
+F:\M3-电源狗测试程序（带协议）2014.08.26\WPF\WpfApplication1\obj\x86\Release\Page1.g.cs
+F:\变电解析\WpfApplication1\bin\Release\WpfApplication.exe.config
+F:\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.exe
+F:\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+F:\变电解析\WpfApplication1\bin\Release\data\Population.xml
+F:\变电解析\WpfApplication1\bin\Release\data\mx.xslt
+F:\变电解析\WpfApplication1\bin\Release\Images\15.ico
+F:\变电解析\WpfApplication1\bin\Release\Images\turnip.png
+F:\变电解析\WpfApplication1\bin\Release\data\mx.xml
+F:\变电解析\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+F:\变电解析\WpfApplication1\bin\Release\WpfApplication.application
+F:\变电解析\WpfApplication1\bin\Release\WpfApplication.exe
+F:\变电解析\WpfApplication1\bin\Release\WpfApplication.pdb
+F:\变电解析\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+F:\变电解析\WpfApplication1\obj\x86\Release\AppSet.baml
+F:\变电解析\WpfApplication1\obj\x86\Release\MainWindow.baml
+F:\变电解析\WpfApplication1\obj\x86\Release\Page1.baml
+F:\变电解析\WpfApplication1\obj\x86\Release\Window1.baml
+F:\变电解析\WpfApplication1\obj\x86\Release\Window2.baml
+F:\变电解析\WpfApplication1\obj\x86\Release\Window3.baml
+F:\变电解析\WpfApplication1\obj\x86\Release\Window4.baml
+F:\变电解析\WpfApplication1\obj\x86\Release\App.baml
+F:\变电解析\WpfApplication1\obj\x86\Release\AppSet.g.cs
+F:\变电解析\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+F:\变电解析\WpfApplication1\obj\x86\Release\Page1.g.cs
+F:\变电解析\WpfApplication1\obj\x86\Release\Window1.g.cs
+F:\变电解析\WpfApplication1\obj\x86\Release\Window2.g.cs
+F:\变电解析\WpfApplication1\obj\x86\Release\Window3.g.cs
+F:\变电解析\WpfApplication1\obj\x86\Release\Window4.g.cs
+F:\变电解析\WpfApplication1\obj\x86\Release\App.g.cs
+F:\变电解析\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+F:\变电解析\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+F:\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+F:\变电解析\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+F:\变电解析\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+F:\变电解析\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+F:\变电解析\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+F:\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+F:\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+F:\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.application
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\bin\Release\WpfApplication.exe.config
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.exe
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\bin\Release\data\mx.xslt
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\bin\Release\Images\15.ico
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\bin\Release\Images\turnip.png
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\bin\Release\data\mx.xml
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\bin\Release\WpfApplication.application
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\bin\Release\WpfApplication.exe
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\bin\Release\WpfApplication.pdb
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\bin\Release\SilverFlow.Controls.dll
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\AppSet.baml
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\Page1.baml
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\Window1.baml
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\Window2.baml
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\Window3.baml
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\Window4.baml
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\App.baml
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\AppSet.g.cs
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\Page1.g.cs
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\Window1.g.cs
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\Window2.g.cs
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\Window3.g.cs
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\Window4.g.cs
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\test.csproj.GenerateResource.Cache
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.application
+C:\Users\雷\Desktop\新建文件夹 (6)\变电解析\WpfApplication1\obj\x86\Release\test.csprojResolveAssemblyReference.cache
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\bin\Release\WpfApplication.exe.config
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.exe
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\bin\Release\data\mx.xslt
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\bin\Release\Images\15.ico
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\bin\Release\Images\turnip.png
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\bin\Release\data\mx.xml
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\bin\Release\WpfApplication.application
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\bin\Release\WpfApplication.exe
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\bin\Release\WpfApplication.pdb
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\AppSet.baml
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\MainWindow.baml
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Page1.baml
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window1.baml
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window2.baml
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window3.baml
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window4.baml
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\App.baml
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\AppSet.g.cs
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Page1.g.cs
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window1.g.cs
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window2.g.cs
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window3.g.cs
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window4.g.cs
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\App.g.cs
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+F:\变电解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.application
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\bin\Release\WpfApplication.exe.config
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.exe
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\bin\Release\data\mx.xslt
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\bin\Release\Images\15.ico
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\bin\Release\Images\turnip.png
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\bin\Release\data\mx.xml
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\bin\Release\WpfApplication.application
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\bin\Release\WpfApplication.exe
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\bin\Release\WpfApplication.pdb
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\AppSet.baml
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\MainWindow.baml
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Page1.baml
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window1.baml
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window2.baml
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window3.baml
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window4.baml
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\App.baml
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\AppSet.g.cs
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Page1.g.cs
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window1.g.cs
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window2.g.cs
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window3.g.cs
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\Window4.g.cs
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\App.g.cs
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+F:\线上单元报文解析_2014.09.01\变电解析\WpfApplication1\obj\x86\Release\WpfApplication.application
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\bin\Release\WpfApplication.exe.config
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.exe
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\bin\Release\data\mx.xslt
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\bin\Release\Images\15.ico
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\bin\Release\Images\turnip.png
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\bin\Release\data\mx.xml
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\bin\Release\WpfApplication.application
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\bin\Release\WpfApplication.exe
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\bin\Release\WpfApplication.pdb
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\AppSet.baml
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\MainWindow.baml
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\Page1.baml
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\Window1.baml
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\Window2.baml
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\Window3.baml
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\Window4.baml
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\App.baml
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\AppSet.g.cs
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\Page1.g.cs
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\Window1.g.cs
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\Window2.g.cs
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\Window3.g.cs
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\Window4.g.cs
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\App.g.cs
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+F:\线上单元报文解析_2014.09.01\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.application
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\bin\Release\WpfApplication.exe.config
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.exe
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\bin\Release\data\mx.xslt
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\bin\Release\Images\15.ico
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\bin\Release\Images\turnip.png
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\bin\Release\data\mx.xml
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\bin\Release\WpfApplication.application
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\bin\Release\WpfApplication.exe
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\bin\Release\WpfApplication.pdb
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\AppSet.baml
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\MainWindow.baml
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\Page1.baml
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\Window1.baml
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\Window2.baml
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\Window3.baml
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\Window4.baml
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\App.baml
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\AppSet.g.cs
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\Page1.g.cs
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\Window1.g.cs
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\Window2.g.cs
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\Window3.g.cs
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\Window4.g.cs
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\App.g.cs
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+F:\线上单元报文解析_2014.09.015\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.application
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\bin\Release\WpfApplication.exe.config
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.exe
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\bin\Release\data\mx.xslt
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\bin\Release\Images\15.ico
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\bin\Release\Images\turnip.png
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\bin\Release\data\mx.xml
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\bin\Release\WpfApplication.application
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\bin\Release\WpfApplication.exe
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\bin\Release\WpfApplication.pdb
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\AppSet.baml
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\MainWindow.baml
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\Page1.baml
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\Window1.baml
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\Window2.baml
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\Window3.baml
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\Window4.baml
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\App.baml
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\AppSet.g.cs
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\Page1.g.cs
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\Window1.g.cs
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\Window2.g.cs
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\Window3.g.cs
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\Window4.g.cs
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\App.g.cs
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\WpfApplication1.Form1.resources
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\WpfApplication.application
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\obj\x86\Release\test.csproj.GenerateResource.Cache
+F:\线上单元报文解析_2014.10.30\线上单元\WpfApplication1\bin\Release\data\cwdata.xml

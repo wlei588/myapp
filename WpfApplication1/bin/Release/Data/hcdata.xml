@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="mx.xslt"?>
+<root>
+    <record ID="1">
+    <序号>1</序号>
+    <时间>15-1-9 18:50:33</时间>
+    <单元ID>1</单元ID>
+    <对地距离>26.467</对地距离>
+    <电池电压>3.596</电池电压>
+    <工作温度>28.821</工作温度>
+  </record>
+</root>

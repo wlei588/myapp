@@ -1,0 +1,119 @@
+C:\Users\雷\Desktop\WPF\WpfApplication1\bin\Release\mx.xml
+C:\Users\雷\Desktop\WPF\WpfApplication1\bin\Release\WpfApplication.exe.config
+C:\Users\雷\Desktop\WPF\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+C:\Users\雷\Desktop\WPF\WpfApplication1\bin\Release\WpfApplication.application
+C:\Users\雷\Desktop\WPF\WpfApplication1\bin\Release\WpfApplication.exe
+C:\Users\雷\Desktop\WPF\WpfApplication1\bin\Release\WpfApplication.pdb
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\Window1.baml
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\App.baml
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\Window1.g.cs
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\WpfApplication.application
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe
+C:\Users\雷\Desktop\WPF\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+E:\新建文件夹\WPF\WpfApplication1\bin\Release\mx.xml
+E:\新建文件夹\WPF\WpfApplication1\bin\Release\WpfApplication.exe.config
+E:\新建文件夹\WPF\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+E:\新建文件夹\WPF\WpfApplication1\bin\Release\WpfApplication.application
+E:\新建文件夹\WPF\WpfApplication1\bin\Release\WpfApplication.exe
+E:\新建文件夹\WPF\WpfApplication1\bin\Release\WpfApplication.pdb
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\MainWindow.baml
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\Window1.baml
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\App.baml
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\Window1.g.cs
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\App.g.cs
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\WpfApplication.application
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe
+E:\新建文件夹\WPF\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\bin\Release\WpfApplication.exe.config
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\Window1.baml
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\App.baml
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\Window1.g.cs
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\bin\Release\mx.xml
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\bin\Release\WpfApplication.application
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\bin\Release\WpfApplication.exe
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\bin\Release\WpfApplication.pdb
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+C:\Documents and Settings\Administrator\桌面\WPF\WpfApplication1\obj\x86\Release\WpfApplication.application
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\media\123.mp3
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\mx.xml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.exe.config
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.application
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.exe
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.pdb
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window1.baml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\App.baml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window1.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.application
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe
+C:\Documents and Settings\Administrator\桌面\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.pdb
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\mx.xslt
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\media\123.mp3
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\mx.xml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.exe.config
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.exe.manifest
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.application
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.exe
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\bin\Release\WpfApplication.pdb
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window1.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\App.baml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\Window1.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication_Content.g.cs
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication_MarkupCompile.cache
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.g.resources
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.TrustInfo.xml
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe.manifest
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.application
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.exe
+C:\Users\雷\Desktop\M3-电源狗测试程序（带协议）\WPF\WpfApplication1\obj\x86\Release\WpfApplication.pdb
